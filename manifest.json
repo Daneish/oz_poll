@@ -1,0 +1,12 @@
+{
+  "domain": "oz_poll",
+  "name": "Oz Poll",
+  "documentation": "https://github.com/OkhammahkO/oz-poll",
+  "issue_tracker": "https://github.com/OkhammahkO/oz-poll/issues",
+  "dependencies": [],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "codeowners": ["@OkhammahkO"],
+  "version": "2.0.0",
+  "requirements": ["aiohttp", "beautifulsoup4"]
+}
